@@ -1,0 +1,2 @@
+key_name = "manual-ec2-key"
+my_ip    = "203.192.204.52/32"
